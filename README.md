@@ -1,6 +1,8 @@
 # gofish
 My first Python project, the classic card game Go Fish.
 
+Compatible with Python 2.7.
+
 card.py is the file to run.
 
 4ofakind.py is a proof of concept that I used to test the 4-of-a-kind analysis feature before implementing it.
