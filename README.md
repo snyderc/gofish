@@ -47,7 +47,7 @@ You had this same problem on the 4-of-a-kind function too! You need to mark the 
 --> Fixed by using reversed(list) to traverse the list in reverse order
 --> Fix tested and passed
 
-Features
+Features Request List:
 
 Sort cards in order of rank on each turn
 maybe with consistent ordering of suits
